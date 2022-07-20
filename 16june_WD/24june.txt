@@ -1,0 +1,40 @@
+Browser : MOzilla,Chrome,IE,safari,opera.....
+Serach Engine : Google,yahoo,MSN,Bing...
+Website : providing an information from anywhere in the world.
+URL : Uniform Resource Locator
+https://www.tops-int.com/contact
+https : Hypertext transfer protocol
+www : world wide web
+tops-int : domain name
+.com : extension. eg.  .in,.edu,.org...
+/contact : path
+
+scripting language
+1)Clientside scripting language
+ 	-HTML
+	-Javascript
+	-XML
+2)Serverside Scripting Language
+	-php	
+	-java
+	-python...
+
+-fIRST PAGE OF WEBSITE  : Homepage
+-Multiple Pages  : Web Pages
+
+Host : domain name/FTP,SMTP
+
+HTML : Hypertext markup language
+-clientside scripting language
+
+
+
+<html>
+	<head>
+		<title>HTML PAge</title>
+	</head>
+	<body>
+
+	</body>
+</html>
+	

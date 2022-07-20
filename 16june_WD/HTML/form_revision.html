@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h3>RegisterForm</h3>
+    <form method="post" action="03Nestead_Elements.html" name="Register" enctype="multipart/form-data">
+        <label>Name:</label>
+        <input type="text" name="name">
+        <br>
+        <label for="Password">Password:</label>
+        <input type="password" name="password">
+        <br>
+        <label for="email">Email:</label>
+        <input type="email" name="email">
+        <br>
+        <label for="Address">Address:</label>
+        <textarea name="address" rows="3" cols="5"></textarea>
+        <br>
+        <label for="photo">Photo:</label>
+        <input type="file" name="photo">
+        <br>
+        <label for="gender">Gender:</label>
+        <input type="radio" name="gender" value="male">Male
+        <input type="radio" name="gender" value="female">Female
+        <br>
+        <label for="hobby">Hobby:</label>
+        <input type="checkbox" name="hobby" value="Cricket">Cricket
+        <input type="checkbox" name="hobby" value="ludo">Ludo
+        <input type="checkbox" name="hobby" value="Chess">Chess
+        <br>
+        <label for="country">Country:</label>
+        <select name="country" >
+            <option value="">India</option>
+            <option value="">USA</option>
+            <option value="">UK</option>
+        </select>
+        <br>
+        <input type="submit" name="submit" value="Register">
+        <input type="reset" name="reset" value="Reset">
+    </form>
+</body>
+</html>
